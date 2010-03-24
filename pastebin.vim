@@ -35,8 +35,8 @@ import xmlrpclib
 # Set this to your preferred pastebin
 pastebin = 'http://pastebin.com/api_public.php'
 # Set this to your preferred username
-user = 'snufkin'
-subdomain = user
+user = 'anonmyous'
+subdomain = 'mydomain'
 #################### END USER CONFIG ####################
 
 def PasteMe(start=-1, end=-1):
